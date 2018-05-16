@@ -18,7 +18,7 @@ import { QuestionComponent } from './components/question/question.component';
   imports: [
     BrowserModule,
     RouterModule.forRoot([
-      { path: 'Question', component: QuestionComponent },
+      {},
     ])
   ],
   providers: [],
